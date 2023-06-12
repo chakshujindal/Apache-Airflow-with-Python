@@ -25,14 +25,14 @@ Features:
 Steps:
 
 1. Install Docker
-(some needed docker commands when setting up)
-docker container ls
-docker system prune
-docker image prune
+ (some needed docker commands when setting up)
+ docker container ls
+ docker system prune
+ docker image prune
 
-Commands to use docker ecosystem:
-docker-compose up --build
-docker-compose down
+ Commands to use docker ecosystem:
+  docker-compose up --build
+  docker-compose down
 
 2. Go to localhost:8080/admin
 3. Go to your editor and create the folder structure as provided.
